@@ -1,0 +1,10 @@
+{
+  "name": "zkp-passport-demo",
+  "version": "1.0.0",
+  "description": "Cryptographic zero-knowledge age verification protocol simulator.",
+  "main": "crypto_core.js",
+  "type": "module",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
